@@ -1,5 +1,9 @@
-flask
+Flask
 gunicorn
-websockets
-requests
 uvicorn
+jsons
+SQLAlchemy
+Flask-SQLAlchemy
+Flask-Sock
+psycopg2-binary
+configparser
