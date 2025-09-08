@@ -9,7 +9,7 @@ import os
 from werkzeug.utils import secure_filename
 import base64
 
-from config.readConf import readConf
+from FlaskProject.config.readConf import readConf
 from flask_sock import Sock
 from Helpers.log_conf import Logger
 
