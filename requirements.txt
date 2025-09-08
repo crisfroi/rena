@@ -7,3 +7,4 @@ Flask-SQLAlchemy
 Flask-Sock
 psycopg2-binary
 configparser
+websockets
